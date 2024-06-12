@@ -10,6 +10,6 @@ Identification of critical areas requiring healthcare resources and intervention
 Insights into gender-based disease infection trends and their impact on insurance claims.
 Optimized pharmacy setups and inventory management.
 Individuals who successfully complete this project can apply for various roles in the IT sector, including:
-Data Analyst
-Business Intelligence Analyst
+Data Analyst,
+Business Intelligence Analyst and
 SQL Developer
